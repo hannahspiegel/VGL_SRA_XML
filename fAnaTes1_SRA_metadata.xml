@@ -1,0 +1,599 @@
+<Submission>
+    <Description>
+        <Comment>GS - BP(1.0)+BS(1.0)+SRA</Comment>
+        <Organization role="owner" type="institute">
+            <Name>Vertebrate Genome Project</Name>
+            <Contact email="ejarvis@rockefeller.edu">
+                <Name>
+                    <First>Erich</First>
+                    <Last>Jarvis</Last>
+                </Name>
+            </Contact>
+        </Organization>
+        <Hold release_date=""/>
+    </Description>
+
+	<Action>
+        <AddFiles target_db="SRA">
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/10x/fAnaTes1_S1_L008_R1_001.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/10x/fAnaTes1_S1_L008_R2_001.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <Attribute name="instrument_model">Illumina NovaSeq 6000</Attribute>
+            
+            <Attribute name="library_name">fAnaTes1_10x_1</Attribute>
+            <Attribute name="library_strategy">WGS</Attribute>
+            
+            <Attribute name="library_source">GENOMIC</Attribute>
+            
+            <Attribute name="library_selection">RANDOM</Attribute>
+            
+            <Attribute name="library_layout">paired</Attribute>
+            
+            <Attribute name="library_construction_protocol">manufacturer's protocol</Attribute>
+            <AttributeRefId name="BioProject">
+                <RefId>
+                    <PrimaryId db="BioProject">PRJ12345</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <AttributeRefId name="BioSample">
+                <RefId>
+                    <PrimaryId db="BioSample">SAM67890</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <Identifier>
+                <SPUID spuid_namespace="CFSAN">VGL</SPUID>
+            </Identifier>
+        </AddFiles>
+    </Action>
+	<Action>
+        <AddFiles target_db="SRA">
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/10x/fAnaTes1_S2_L008_R1_001.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/10x/fAnaTes1_S2_L008_R2_001.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <Attribute name="instrument_model">Illumina NovaSeq 6000</Attribute>
+            
+            <Attribute name="library_name">fAnaTes1_10x_3</Attribute>
+            <Attribute name="library_strategy">WGS</Attribute>
+            
+            <Attribute name="library_source">GENOMIC</Attribute>
+            
+            <Attribute name="library_selection">RANDOM</Attribute>
+            
+            <Attribute name="library_layout">paired</Attribute>
+            
+            <Attribute name="library_construction_protocol">manufacturer's protocol</Attribute>
+            <AttributeRefId name="BioProject">
+                <RefId>
+                    <PrimaryId db="BioProject">PRJ12345</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <AttributeRefId name="BioSample">
+                <RefId>
+                    <PrimaryId db="BioSample">SAM67890</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <Identifier>
+                <SPUID spuid_namespace="CFSAN">VGL</SPUID>
+            </Identifier>
+        </AddFiles>
+    </Action>
+	<Action>
+        <AddFiles target_db="SRA">
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/10x/fAnaTes1_S3_L008_R1_001.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/10x/fAnaTes1_S3_L008_R2_001.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <Attribute name="instrument_model">Illumina NovaSeq 6000</Attribute>
+            
+            <Attribute name="library_name">fAnaTes1_10x_5</Attribute>
+            <Attribute name="library_strategy">WGS</Attribute>
+            
+            <Attribute name="library_source">GENOMIC</Attribute>
+            
+            <Attribute name="library_selection">RANDOM</Attribute>
+            
+            <Attribute name="library_layout">paired</Attribute>
+            
+            <Attribute name="library_construction_protocol">manufacturer's protocol</Attribute>
+            <AttributeRefId name="BioProject">
+                <RefId>
+                    <PrimaryId db="BioProject">PRJ12345</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <AttributeRefId name="BioSample">
+                <RefId>
+                    <PrimaryId db="BioSample">SAM67890</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <Identifier>
+                <SPUID spuid_namespace="CFSAN">VGL</SPUID>
+            </Identifier>
+        </AddFiles>
+    </Action>
+	<Action>
+        <AddFiles target_db="SRA">
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/10x/fAnaTes1_S4_L008_R1_001.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/10x/fAnaTes1_S4_L008_R2_001.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <Attribute name="instrument_model">Illumina NovaSeq 6000</Attribute>
+            
+            <Attribute name="library_name">fAnaTes1_10x_7</Attribute>
+            <Attribute name="library_strategy">WGS</Attribute>
+            
+            <Attribute name="library_source">GENOMIC</Attribute>
+            
+            <Attribute name="library_selection">RANDOM</Attribute>
+            
+            <Attribute name="library_layout">paired</Attribute>
+            
+            <Attribute name="library_construction_protocol">manufacturer's protocol</Attribute>
+            <AttributeRefId name="BioProject">
+                <RefId>
+                    <PrimaryId db="BioProject">PRJ12345</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <AttributeRefId name="BioSample">
+                <RefId>
+                    <PrimaryId db="BioSample">SAM67890</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <Identifier>
+                <SPUID spuid_namespace="CFSAN">VGL</SPUID>
+            </Identifier>
+        </AddFiles>
+    </Action>
+	<Action>
+        <AddFiles target_db="SRA">
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/arima/fAnaTes1_ARI2_001_USPD16084394-AK4937_HJFMFCCXY_L1_R1.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/arima/fAnaTes1_ARI2_001_USPD16084394-AK4937_HJFMFCCXY_L1_R2.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <Attribute name="instrument_model">Illumina NovaSeq 6000</Attribute>
+            
+            <Attribute name="library_name">fAnaTes1_arima_9</Attribute>
+            <Attribute name="library_strategy">Hi-C</Attribute>
+            
+            <Attribute name="library_source">GENOMIC</Attribute>
+            
+            <Attribute name="library_selection">Restriction Digest</Attribute>
+            
+            <Attribute name="library_layout">paired</Attribute>
+            
+            <Attribute name="library_construction_protocol">manufacturer's protocol</Attribute>
+            <AttributeRefId name="BioProject">
+                <RefId>
+                    <PrimaryId db="BioProject">PRJ12345</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <AttributeRefId name="BioSample">
+                <RefId>
+                    <PrimaryId db="BioSample">SAM67890</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <Identifier>
+                <SPUID spuid_namespace="CFSAN">VGL</SPUID>
+            </Identifier>
+        </AddFiles>
+    </Action>
+	<Action>
+        <AddFiles target_db="SRA">
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/arima/fAnaTes1_ARI2_001_USPD16084394-AK4937_HJFMFCCXY_L2_R1.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/arima/fAnaTes1_ARI2_001_USPD16084394-AK4937_HJFMFCCXY_L2_R2.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <Attribute name="instrument_model">Illumina NovaSeq 6000</Attribute>
+            
+            <Attribute name="library_name">fAnaTes1_arima_11</Attribute>
+            <Attribute name="library_strategy">Hi-C</Attribute>
+            
+            <Attribute name="library_source">GENOMIC</Attribute>
+            
+            <Attribute name="library_selection">Restriction Digest</Attribute>
+            
+            <Attribute name="library_layout">paired</Attribute>
+            
+            <Attribute name="library_construction_protocol">manufacturer's protocol</Attribute>
+            <AttributeRefId name="BioProject">
+                <RefId>
+                    <PrimaryId db="BioProject">PRJ12345</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <AttributeRefId name="BioSample">
+                <RefId>
+                    <PrimaryId db="BioSample">SAM67890</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <Identifier>
+                <SPUID spuid_namespace="CFSAN">VGL</SPUID>
+            </Identifier>
+        </AddFiles>
+    </Action>
+	<Action>
+        <AddFiles target_db="SRA">
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/arima/fAnaTes1_ARI2_001_USPD16084394-AK4937_HJFMFCCXY_L3_R1.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/arima/fAnaTes1_ARI2_001_USPD16084394-AK4937_HJFMFCCXY_L3_R2.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <Attribute name="instrument_model">Illumina NovaSeq 6000</Attribute>
+            
+            <Attribute name="library_name">fAnaTes1_arima_13</Attribute>
+            <Attribute name="library_strategy">Hi-C</Attribute>
+            
+            <Attribute name="library_source">GENOMIC</Attribute>
+            
+            <Attribute name="library_selection">Restriction Digest</Attribute>
+            
+            <Attribute name="library_layout">paired</Attribute>
+            
+            <Attribute name="library_construction_protocol">manufacturer's protocol</Attribute>
+            <AttributeRefId name="BioProject">
+                <RefId>
+                    <PrimaryId db="BioProject">PRJ12345</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <AttributeRefId name="BioSample">
+                <RefId>
+                    <PrimaryId db="BioSample">SAM67890</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <Identifier>
+                <SPUID spuid_namespace="CFSAN">VGL</SPUID>
+            </Identifier>
+        </AddFiles>
+    </Action>
+	<Action>
+        <AddFiles target_db="SRA">
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/arima/fAnaTes1_ARI2_001_USPD16084394-AK4937_HJFMFCCXY_L4_R1.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/arima/fAnaTes1_ARI2_001_USPD16084394-AK4937_HJFMFCCXY_L4_R2.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <Attribute name="instrument_model">Illumina NovaSeq 6000</Attribute>
+            
+            <Attribute name="library_name">fAnaTes1_arima_15</Attribute>
+            <Attribute name="library_strategy">Hi-C</Attribute>
+            
+            <Attribute name="library_source">GENOMIC</Attribute>
+            
+            <Attribute name="library_selection">Restriction Digest</Attribute>
+            
+            <Attribute name="library_layout">paired</Attribute>
+            
+            <Attribute name="library_construction_protocol">manufacturer's protocol</Attribute>
+            <AttributeRefId name="BioProject">
+                <RefId>
+                    <PrimaryId db="BioProject">PRJ12345</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <AttributeRefId name="BioSample">
+                <RefId>
+                    <PrimaryId db="BioSample">SAM67890</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <Identifier>
+                <SPUID spuid_namespace="CFSAN">VGL</SPUID>
+            </Identifier>
+        </AddFiles>
+    </Action>
+	<Action>
+        <AddFiles target_db="SRA">
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/arima/fAnaTes1_ARI2_001_USPD16084394-AK4937_HJFMFCCXY_L5_R1.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/arima/fAnaTes1_ARI2_001_USPD16084394-AK4937_HJFMFCCXY_L5_R2.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <Attribute name="instrument_model">Illumina NovaSeq 6000</Attribute>
+            
+            <Attribute name="library_name">fAnaTes1_arima_17</Attribute>
+            <Attribute name="library_strategy">Hi-C</Attribute>
+            
+            <Attribute name="library_source">GENOMIC</Attribute>
+            
+            <Attribute name="library_selection">Restriction Digest</Attribute>
+            
+            <Attribute name="library_layout">paired</Attribute>
+            
+            <Attribute name="library_construction_protocol">manufacturer's protocol</Attribute>
+            <AttributeRefId name="BioProject">
+                <RefId>
+                    <PrimaryId db="BioProject">PRJ12345</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <AttributeRefId name="BioSample">
+                <RefId>
+                    <PrimaryId db="BioSample">SAM67890</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <Identifier>
+                <SPUID spuid_namespace="CFSAN">VGL</SPUID>
+            </Identifier>
+        </AddFiles>
+    </Action>
+	<Action>
+        <AddFiles target_db="SRA">
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/arima/fAnaTes1_ARI2_001_USPD16084394-AK4937_HJFMFCCXY_L6_R1.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/arima/fAnaTes1_ARI2_001_USPD16084394-AK4937_HJFMFCCXY_L6_R2.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <Attribute name="instrument_model">Illumina NovaSeq 6000</Attribute>
+            
+            <Attribute name="library_name">fAnaTes1_arima_19</Attribute>
+            <Attribute name="library_strategy">Hi-C</Attribute>
+            
+            <Attribute name="library_source">GENOMIC</Attribute>
+            
+            <Attribute name="library_selection">Restriction Digest</Attribute>
+            
+            <Attribute name="library_layout">paired</Attribute>
+            
+            <Attribute name="library_construction_protocol">manufacturer's protocol</Attribute>
+            <AttributeRefId name="BioProject">
+                <RefId>
+                    <PrimaryId db="BioProject">PRJ12345</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <AttributeRefId name="BioSample">
+                <RefId>
+                    <PrimaryId db="BioSample">SAM67890</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <Identifier>
+                <SPUID spuid_namespace="CFSAN">VGL</SPUID>
+            </Identifier>
+        </AddFiles>
+    </Action>
+	<Action>
+        <AddFiles target_db="SRA">
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/arima/fAnaTes1_ARI2_001_USPD16084394-AK4937_HJFMFCCXY_L7_R1.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/arima/fAnaTes1_ARI2_001_USPD16084394-AK4937_HJFMFCCXY_L7_R2.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <Attribute name="instrument_model">Illumina NovaSeq 6000</Attribute>
+            
+            <Attribute name="library_name">fAnaTes1_arima_21</Attribute>
+            <Attribute name="library_strategy">Hi-C</Attribute>
+            
+            <Attribute name="library_source">GENOMIC</Attribute>
+            
+            <Attribute name="library_selection">Restriction Digest</Attribute>
+            
+            <Attribute name="library_layout">paired</Attribute>
+            
+            <Attribute name="library_construction_protocol">manufacturer's protocol</Attribute>
+            <AttributeRefId name="BioProject">
+                <RefId>
+                    <PrimaryId db="BioProject">PRJ12345</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <AttributeRefId name="BioSample">
+                <RefId>
+                    <PrimaryId db="BioSample">SAM67890</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <Identifier>
+                <SPUID spuid_namespace="CFSAN">VGL</SPUID>
+            </Identifier>
+        </AddFiles>
+    </Action>
+	<Action>
+        <AddFiles target_db="SRA">
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/arima/fAnaTes1_ARI2_001_USPD16084394-AK4937_HJFMFCCXY_L8_R1.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/arima/fAnaTes1_ARI2_001_USPD16084394-AK4937_HJFMFCCXY_L8_R2.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <Attribute name="instrument_model">Illumina NovaSeq 6000</Attribute>
+            
+            <Attribute name="library_name">fAnaTes1_arima_23</Attribute>
+            <Attribute name="library_strategy">Hi-C</Attribute>
+            
+            <Attribute name="library_source">GENOMIC</Attribute>
+            
+            <Attribute name="library_selection">Restriction Digest</Attribute>
+            
+            <Attribute name="library_layout">paired</Attribute>
+            
+            <Attribute name="library_construction_protocol">manufacturer's protocol</Attribute>
+            <AttributeRefId name="BioProject">
+                <RefId>
+                    <PrimaryId db="BioProject">PRJ12345</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <AttributeRefId name="BioSample">
+                <RefId>
+                    <PrimaryId db="BioSample">SAM67890</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <Identifier>
+                <SPUID spuid_namespace="CFSAN">VGL</SPUID>
+            </Identifier>
+        </AddFiles>
+    </Action>
+	<Action>
+        <AddFiles target_db="SRA">
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/arima/fAnaTes1_ARI2_001_USPD16084394-AK4937_HJFMMCCXY_L6_R1.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/arima/fAnaTes1_ARI2_001_USPD16084394-AK4937_HJFMMCCXY_L6_R2.fastq.gz">
+                <DataType>generic-data</DataType>
+            </File>
+            <Attribute name="instrument_model">Illumina NovaSeq 6000</Attribute>
+            
+            <Attribute name="library_name">fAnaTes1_arima_25</Attribute>
+            <Attribute name="library_strategy">Hi-C</Attribute>
+            
+            <Attribute name="library_source">GENOMIC</Attribute>
+            
+            <Attribute name="library_selection">Restriction Digest</Attribute>
+            
+            <Attribute name="library_layout">paired</Attribute>
+            
+            <Attribute name="library_construction_protocol">manufacturer's protocol</Attribute>
+            <AttributeRefId name="BioProject">
+                <RefId>
+                    <PrimaryId db="BioProject">PRJ12345</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <AttributeRefId name="BioSample">
+                <RefId>
+                    <PrimaryId db="BioSample">SAM67890</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <Identifier>
+                <SPUID spuid_namespace="CFSAN">VGL</SPUID>
+            </Identifier>
+        </AddFiles>
+    </Action>
+	<Action>
+        <AddFiles target_db="SRA">
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/pacbio/m54097_170223_195514.subreads.bam">
+                <DataType>generic-data</DataType>
+            </File>
+            <Attribute name="instrument_model">PacBio Sequel II</Attribute>
+            
+            <Attribute name="library_name">fAnaTes1_pacbio_27</Attribute>
+            <Attribute name="library_strategy">WGS</Attribute>
+            
+            <Attribute name="library_source">GENOMIC</Attribute>
+            
+            <Attribute name="library_selection">size fractionation</Attribute>
+            
+            <Attribute name="library_layout">single</Attribute>
+            
+            <Attribute name="library_construction_protocol">SAGE blue pippin</Attribute>
+            <AttributeRefId name="BioProject">
+                <RefId>
+                    <PrimaryId db="BioProject">PRJ12345</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <AttributeRefId name="BioSample">
+                <RefId>
+                    <PrimaryId db="BioSample">SAM67890</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <Identifier>
+                <SPUID spuid_namespace="CFSAN">VGL</SPUID>
+            </Identifier>
+        </AddFiles>
+    </Action>
+	<Action>
+        <AddFiles target_db="SRA">
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/pacbio/m54097_170225_103404.subreads.bam">
+                <DataType>generic-data</DataType>
+            </File>
+            <Attribute name="instrument_model">PacBio Sequel II</Attribute>
+            
+            <Attribute name="library_name">fAnaTes1_pacbio_29</Attribute>
+            <Attribute name="library_strategy">WGS</Attribute>
+            
+            <Attribute name="library_source">GENOMIC</Attribute>
+            
+            <Attribute name="library_selection">size fractionation</Attribute>
+            
+            <Attribute name="library_layout">single</Attribute>
+            
+            <Attribute name="library_construction_protocol">SAGE blue pippin</Attribute>
+            <AttributeRefId name="BioProject">
+                <RefId>
+                    <PrimaryId db="BioProject">PRJ12345</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <AttributeRefId name="BioSample">
+                <RefId>
+                    <PrimaryId db="BioSample">SAM67890</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <Identifier>
+                <SPUID spuid_namespace="CFSAN">VGL</SPUID>
+            </Identifier>
+        </AddFiles>
+    </Action>
+	<Action>
+        <AddFiles target_db="SRA">
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/pacbio/m54097_170226_065311.subreads.bam">
+                <DataType>generic-data</DataType>
+            </File>
+            <Attribute name="instrument_model">PacBio Sequel II</Attribute>
+            
+            <Attribute name="library_name">fAnaTes1_pacbio_31</Attribute>
+            <Attribute name="library_strategy">WGS</Attribute>
+            
+            <Attribute name="library_source">GENOMIC</Attribute>
+            
+            <Attribute name="library_selection">size fractionation</Attribute>
+            
+            <Attribute name="library_layout">single</Attribute>
+            
+            <Attribute name="library_construction_protocol">SAGE blue pippin</Attribute>
+            <AttributeRefId name="BioProject">
+                <RefId>
+                    <PrimaryId db="BioProject">PRJ12345</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <AttributeRefId name="BioSample">
+                <RefId>
+                    <PrimaryId db="BioSample">SAM67890</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <Identifier>
+                <SPUID spuid_namespace="CFSAN">VGL</SPUID>
+            </Identifier>
+        </AddFiles>
+    </Action>
+	<Action>
+        <AddFiles target_db="SRA">
+            <File file_path="species/Anabas_testudineus/fAnaTes1/genomic_data/pacbio/m54097_170227_031236.subreads.bam">
+                <DataType>generic-data</DataType>
+            </File>
+            <Attribute name="instrument_model">PacBio Sequel II</Attribute>
+            
+            <Attribute name="library_name">fAnaTes1_pacbio_33</Attribute>
+            <Attribute name="library_strategy">WGS</Attribute>
+            
+            <Attribute name="library_source">GENOMIC</Attribute>
+            
+            <Attribute name="library_selection">size fractionation</Attribute>
+            
+            <Attribute name="library_layout">single</Attribute>
+            
+            <Attribute name="library_construction_protocol">SAGE blue pippin</Attribute>
+            <AttributeRefId name="BioProject">
+                <RefId>
+                    <PrimaryId db="BioProject">PRJ12345</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <AttributeRefId name="BioSample">
+                <RefId>
+                    <PrimaryId db="BioSample">SAM67890</PrimaryId>
+                </RefId>
+            </AttributeRefId>
+            <Identifier>
+                <SPUID spuid_namespace="CFSAN">VGL</SPUID>
+            </Identifier>
+        </AddFiles>
+    </Action>
+</Submission>
