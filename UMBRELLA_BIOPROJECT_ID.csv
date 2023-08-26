@@ -1,0 +1,287 @@
+﻿ToLID,BioProject_ID,Organism
+ bAcaChl1,PRJNA562166,Acanthisitta chloris    Acanthisitta chloris (Rifleman) genome
+,PRJEB40702,Acanthopagrus latus Acanthopagrus latus (yellowfin sea bream)
+,PRJEB48396,Accipiter gentilis
+,PRJEB35914,Acipenser ruthenus
+,PRJEB39769,Acomys russatus
+ bArcTri1,PRJNA922139,Acridotheres tristis
+,PRJNA566188,Alca torda
+ fAloSap1,PRJNA776885,Alosa sapidissima
+ sAmbRad1,PRJNA593039,Amblyraja radiata
+,PRJEB60704,Ammodytes marinus
+ bAmmCau1,PRJNA922976,Ammospiza caudacuta
+ bAmmNel1,PRJNA922164,Ammospiza nelsoni
+fAnaTes1,PRJEB30393,Anabas Testudineus
+ fAnaAna1,PRJNA562167,Anableps anableps
+,PRJEB64746,Anas acuta
+bAnaPla1,PRJNA641113,Anas platyrhynchos
+ fAngAng1,PRJNA562168,Anguilla anguilla
+ fAntMac1,PRJNA562173,Antennarius maculatus
+ fAplTae1,PRJNA562176,Aplochiton taeniatus
+,PRJEB53556,Apodemus sylvaticus
+ bApuApu2,PRJNA776865,Apus apus
+,PRJEB33202,Aquila chrysaetos chrysaetos
+ bAraAra1,PRJNA935292,Ara ararauna
+ fArcCen1,PRJNA533105,Archocentrus centrarchus
+,PRJEB59966,Argentina silus
+ mArvNil1,PRJNA562178,Arvicanthis niloticus
+,PRJEB39551,Arvicola amphibius
+ fAstCal1.2,PRJNA557691,Astatotilapia calliptera
+,PRJEB33975,Asterias rubens
+ bAytFul2,PRJNA562180,Aythya fuligula
+,PRJEB60647,Balaenoptera acutorostrata
+ mBalMus1,PRJNA557693,Balaenoptera musculus
+ mBalRic1,PRJNA927325,Balaenoptera ricei
+ bBalReg1,PRJNA562181,Balearica regulorum gibbericeps
+,PRJEB55341,Barbatula barbatula
+,PRJEB51453,Barbus barbus
+,PRJEB30367,Betta splendens
+ aBomBom1,PRJNA922148,Bombina bombina
+,PRJEB60198,Borostomias antarcticus
+,PRJNA603765,Bos indicus x Bos taurus
+ bBucAby1,PRJNA562182,Bucorvus abyssinicus
+,PRJEB42238,Bufo bufo
+ mCalJac1,PRJNA560230,Callithrix jacchus
+ bCalAnn1,PRJNA510144,Calypte anna
+,PRJEB43409,Canis lupus
+,PRJEB44830,Caprimulgus europaeus
+,PRJEB62001,Carassius carassius
+ sCarCar2,PRJNA562191,Carcharodon carcharias
+ bCarCri1,PRJNA562192,Cariama cristata
+ bCatUst1,PRJNA562193,Catharus ustulatus
+,PRJEB45171,Cervus elaphus
+,PRJEB33883,Chanos chanos
+ fCheRos1,PRJNA562194,Chelmon rostratus
+,PRJEB63499,Chelon labrosus
+ rCheMyd1,PRJNA562195,Chelonia mydas
+,PRJEB59810,Chionomys nivalis
+ bChiLan1,PRJNA562196,Chiroxiphia lanceolata
+ mChoDid1,PRJNA562198,Choloepus didactylus
+ bCicMag1,PRJNA717215,Ciconia maguari
+,PRJEB61999,Cinclus cinclus
+ bColStr4,PRJNA938129,Colius striatus
+,PRJEB59956,Corella eumyota
+ bCorHaw1,PRJNA776866,Corvus hawaiiensis
+ bCorMon1,PRJNA561795,Corvus moneduloides
+,PRJEB30272,Cottoperca gobio
+ bCucCan1,PRJNA562200,Cuculus canorus
+ fCycLum1,PRJNA562201,Cyclopterus lumpus
+ rCycPin1,PRJNA986166,Cyclura pinguis
+ bCygOlo1,PRJNA562205,Cygnus olor
+mCynVol1,PRJNA913149,Cynocephalus volans
+,PRJEB38590,Danio rerio
+,PRJEB52651,Danio rerio
+ mDasNov1,PRJNA993262,Dasypus novemcinctus
+,PRJEB60667,Delphinus delphis
+aDenEbr1,PRJNA922582,Dendropsophus ebraccatus
+,PRJEB31550,Denticeps clupeoides
+ rDerCor1,PRJNA562206,Dermochelys coriacea
+ mBicDic1,PRJNA776883,Diceros bicornis minor
+aDisPic1,PRJNA915386,Discoglossus pictus
+ bDroNov1,PRJNA641107,Dromaius novaehollandiae
+ mDroGli1,PRJNA776875,Dromiciops gliroides
+ bDryPub1,PRJNA562232,Dryobates pubescens
+ mDugDug1,PRJNA970804,Dugong dugon
+,PRJEB31994,Echeneis naucrates
+,PRJEB60649,Electrona antarctica
+,PRJEB63513,Electrona carlsbergi
+,PRJEB63623,Electrona subaspera
+ fEleEle1,PRJNA562207,Electrophorus electricus
+ mEleMax1,PRJNA855931,Elephas maximus indicus
+ rEmyOrb1,PRJNA927029,Emys orbicularis
+,PRJEB61925,Eptesicus nilssonii
+ mEreDor1,PRJNA927022,Erethizon dorsatum
+,PRJEB60669,Erinaceus europaeus
+,PRJEB38659,Erithacus rubecula
+,PRJEB31587,Erpetoichthys calabaricus
+ mEscRob2,PRJNA927345,Eschrichtius robustus
+ fEsoLuc1,PRJNA562208,Esox lucius
+ mEubGla1,PRJNA932450,Eubalaena glacialis
+ rEulEur1,PRJNA935365,Euleptes europaea
+,PRJEB64070,Eutrigla gurnardus
+ bFalBia1,PRJNA844077,Falco biarmicus
+ bFalche1,PRJNA844067,Falco cherrug
+ bFalNau1,PRJNA715196,Falco naumanni
+ bFalPer1,PRJNA844070,Falco peregrinus
+,PRJEB61047,Falco punctatus
+ bFalRus1,PRJNA562209,Falco rusticolus
+,PRJEB61919,Fringilla coelebs
+,PRJEB33456,Gadus morhua
+ bGalGal1,PRJNA673216,Gallus gallus
+ bGalGal4,PRJNA915401,Gallus gallus
+ bGalGal5,PRJNA915403,Gallus gallus
+,PRJEB62003,Gasterosteus aculeatus
+ aGasCar1,PRJNA923362,Gastrophryne carolinensis
+ rGavGan2,PRJNA972737,Gavialis gangeticus
+ bGeoTri1,PRJNA593040,Geothlypis trichas
+,PRJEB33993,Geotrypetes seraphini
+,PRJNA895397,Girardinichthys multiradiatus
+,PRJEB59786,Gobio gobio
+,PRJEB61917,Gobius niger
+ rGopEvg1,PRJNA533104,Gopherus evgoodei
+ rGopFla2,PRJNA842024,Gopherus flavomarginatus
+,PRJEB30363,Gouania willdenowi
+ bGruAme1,PRJNA938116,Grus americana
+,PRJEB64710,Gymnoscopelus braueri
+bGypBar2,PRJNA927017,Gypaetus barbatus
+ bHaeMex1,PRJNA915091,Haemorhous mexicanus
+,PRJEB57284,Haliaeetus albicilla
+ bHarHar1,PRJNA903882,Harpia harpyja
+ bHemCom1,PRJNA776867,Hemiprocne comata
+ sHemOce1,PRJNA776876,Hemiscyllium ocellatum
+ mHetBru1,PRJNA932717,Heterohyrax brucei
+ fHipHip1,PRJNA562210,Hippoglossus hippoglossus
+ mHipAmp2,PRJNA972732,Hippopotamus amphibius kiboko
+ mHipLar1,PRJNA776886,Hipposideros larvatus
+ bHirRus1,PRJNA641117,Hirundo rustica
+ mHomSap3,PRJNA562213,Homo sapiens
+ fHopMal1,PRJNA952991,Hoplias malabaricus
+ aHylSar1,PRJNA945447,Hyla sarda
+ sHypSab1,PRJNA976741,Hypanus sabinus
+,PRJEB60010,Hyperoodon ampullatus
+,PRJEB58244,Hyperoplus immaculatus
+ mJacJac1,PRJNA776884,Jaculus jaculus
+ mKogBre1,PRJNA903912,Kogia breviceps
+,PRJEB63507,Labrus mixtus
+ rLacAgi1,PRJNA562214,Lacerta agilis
+,PRJEB60663,Lagenorhynchus albirostris
+ bLagMut1,PRJNA843060,Lagopus muta
+ fLamInc1,PRJNA952990,Lampris incognitus
+ mLemCat1,PRJNA562215,Lemur catta
+ mLoxAfr1,PRJNA970377,Loxodonta africana
+,PRJEB35340,Lutra lutra
+ fLycPai1,PRJNA928479,Lycodopsis pacificus
+ mLynCan4,PRJNA533103,Lynx canadensis
+ rMalTer1,PRJNA923333,Malaclemys terrapin pileata
+ mManPen7,PRJNA972736,Manis pentadactyla
+,PRJEB31554,Mastacembelus armatus
+ fMegCyp1,PRJNA562216,Megalops cyprinoides
+,PRJEB59776,Melanostigma gelatinosum
+ fMelBoe1,PRJNA562218,Melanotaenia boesemani
+,PRJEB46333,Meles meles
+ bMelUnd1,PRJNA562220,Melopsittacus undulatus
+ bMelGeo1,PRJNA927021,Melospiza georgiana
+ bMerNub1,PRJNA562222,Merops nubicus
+ mMesDen1,PRJNA875937,Mesoplodon densirostris
+,PRJEB32739,Microcaecilia unicolor
+,PRJEB64068,Microchirus variegatus
+ sMobBir1,PRJNA954412,Mobula birostris
+ assembly and annotation,PRJNA674390,Molossus molossus
+ mMonDom1,PRJNA922994,Monodelphis domestica
+,PRJEB59719,Mus musculus
+ mMusErm1,PRJNA562223,Mustela erminea
+ mMusLut2,PRJNA986837,Mustela lutreola
+,PRJEB61137,Myotis daubentonii
+,PRJNA674393,Myotis myotis
+,PRJEB33189,Myripristis murdjan
+,PRJEB64098,Nansenia antarctica
+ fNeoGra1,PRJNA922166,Neoarius graeffei
+ mNeoNeb1,PRJNA927027,Neofelis nebulosa
+,PRJEB64092,Nesoenas mayeri
+ mMacEug1,PRJNA928718,Notamacropus eugenii
+ fNotCel1,PRJNA562225,Notolabrus celidotus
+,PRJEB59163,Notothenia rossii
+ bNycGra1,PRJNA562227,Nyctibius grandis
+ mNycCou1,PRJNA915385,Nycticebus coucang
+ mOchPri1,PRJNA988022,Ochotona princeps
+ fOdoBon6,PRJNA923338,Odontesthes bonariensis
+,PRJEB39771,Onychomys torridus
+,PRJEB51334,Orcinus orca
+ mOrnAna1,PRJNA513296,Ornithorhynchus anatinus
+,PRJEB64080,Osmerus eperlanus
+ fPanHyp1,PRJNA915404,Pangasianodon hypophthalmus
+,PRJEB30286,Parambassis ranga
+ bPelCri1,PRJNA986544,Pelecanus crispus
+ fPerMag1,PRJNA562229,Periophthalmus magnuspinnatus
+ kPetMar1,PRJNA562230,Petromyzon marinus
+ bPhaSup1,PRJNA789234,Phaethornis superciliosus
+,PRJEB57282,Phalacrocorax aristotelis
+ mPhoSin1,PRJNA560233,Phocoena sinus
+ bPhoRub2,PRJNA562231,Phoenicopterus ruber ruber
+ fPhoLeu1,PRJNA776880,Pholidichthys leucotaenia
+,PRJEB43809,Pholis gunnellus
+,PRJEB59308,Phoxinus phoxinus
+ mPhyDis1,PRJNA521246,Phyllostomus discolor
+ assembly and annotation,PRJNA674391,Pipistrellus kuhlii
+,PRJEB39566,Pipistrellus pipistrellus
+,PRJEB61049,Pipistrellus pygmaeus
+,PRJEB59806,Platichthys flesus
+,PRJEB56054,Pleuronectes platessa
+ bPluApr1,PRJNA717218,Pluvialis apricaria
+,PRJEB61854,Podarcis cretensis
+ rPodRaf1,PRJNA914745,Podarcis raffonei
+bPodStr1,PRJNA926650,Podargus strigoides
+ bPogPus1,PRJNA641122,Pogoniulus pusillus
+,PRJEB60645,Pollachius pollachius
+ bPorHoc1,PRJNA776871,Porphyrio hochstetteri
+ sPriPec2,PRJNA562240,Pristis pectinata
+,PRJEB63436,Protomyctophum parallelum
+ aPseCor3,PRJNA928730,Pseudophryne corroboree
+,PRJEB64768,Psittacula echo
+ bPteGut1,PRJNA562241,Pterocles gutturalis
+,PRJEB59310,Pungitius pungitius
+ fPygNat1,PRJNA562242,Pygocentrus nattereri
+,PRJEB61690,Raja brachyura
+,PRJEB42239,Rana temporaria
+ mRatBN7,PRJNA662962,Rattus norvegicus
+ bPtePen1,PRJNA928731,Rhea pennata
+,PRJEB32113,Rhinatrema bivittatum
+ rRhiFlo1,PRJNA972733,Rhineura floridana
+ mRhiFer1,PRJNA526698,Rhinolophus ferrumequinum
+ bRhyJub1,PRJNA922141,Rhynochetos jubatus
+ bRisTri1,PRJNA911786,Rissa tridactyla
+ assembly and annotation,PRJNA674394,Rousettus aegyptiacus
+,PRJEB61621,Rutilus rutilus
+,PRJEB33185,Salarias fasciatus
+ fSalBra1,PRJNA976265,Salminus brasiliensis
+,PRJEB33201,Salmo trutta
+ fScaArg1,PRJNA776881,Scatophagus argus
+,PRJEB35387,Sciurus carolinensis
+,PRJEB35381,Sciurus vulgaris
+,PRJEB31997,Scleropages formosus
+fScoJap1,PRJNA914746,Scomber japonicus
+,PRJEB35946,Scyliorhinus canicula
+ fSebUmb1,PRJNA562243,Sebastes umbrosus
+,PRJEB55446,Silurus aristotelis
+,PRJEB61337,Solea solea
+ mSorAra2,PRJNA922145,Sorex araneus
+,PRJEB31904,Sparus aurata
+ aSpeBom1,PRJNA915367,Spea bombifrons
+,PRJEB33178,Sphaeramia orbicularis
+ bSphHub1,PRJNA922133,Spheniscus humboldti
+,PRJEB59952,Squalius cephalus
+,PRJEB60665,Stenella coeruleoalba
+ bSteHir1,PRJNA560234,Sterna hirundo
+,PRJEB32727,Streptopelia turtur
+ bStrHab1,PRJNA510145,Strigops habroptila
+ mSunEtr1,PRJNA844068,Suncus etruscus
+ bSylAtr1,PRJNA560235,Sylvia atricapilla
+ bSylBor1,PRJNA562244,Sylvia borin
+,PRJEB32743,Syngnathus acus
+ mTacAcu1,PRJNA607289,Tachyglossus aculeatus
+ bTaeGut1,PRJNA510143,Taeniopygia guttata
+ bTaeGut2,PRJNA533101,Taeniopygia guttata
+,PRJEB31991,Takifugu rubripes
+ mTamTet1,PRJNA848843,Tamandua tetradactyla
+ bTauEry1,PRJNA562246,Tauraco erythrolophus
+,PRJEB45118,Taurulus bubalis
+ fTauAds1,PRJNA776882,Tautogolabrus adspersus
+,PRJEB51033,Telmatherina bonti
+,PRJEB57676,Tetrao urogallus
+,PRJEB34607,Thalassophryne amazonica
+ rThaEle1,PRJNA562247,Thamnophis elegans
+ bTheCae1,PRJNA776872,Theristicus caerulescens
+,PRJEB45170,Thunnus albacares
+,PRJEB45115,Thunnus maccoyii
+ fToxJac1,PRJNA717219,Toxotes jaculatrix
+,PRJEB42240,Trachurus trachurus
+ fTriRos1,PRJNA971190,Trichomycterus rosablanca
+ mTriVul1,PRJNA562248,Trichosurus vulpecula
+ bTroSur1,PRJNA776873,Trogon surrucura
+ mTurTru1,PRJNA562249,Tursiops truncatus
+ bVidCha1,PRJNA912708,Vidua chalybeata
+ rVipLat1,PRJNA858072,Vipera seoanei
+,PRJEB55895,Vipera ursinii
+ fXenCan1,PRJNA562250,Xenentodon cancila
+ mZalCal1,PRJNA561800,Zalophus californianus
+,PRJEB63619,Zeus faber
